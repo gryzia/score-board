@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    text-align: center;
+    background: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.score {
+    background: black;
+    color: #F94F6D;
+    font-size: 90px;
+    width: 120px;
+    height: 155;
+    margin: 20px; 
+    padding: 15px;
+    font-family: Cursed Timer ULiL, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 5px;
+}
+
+button {
+    background: none;
+    font-family: Cursed Timer ULiL, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid #9AABD8;
+    color: #9AABD8;
+    border-radius: 5px;
+    padding: 10px;
+    width: 45px;
+} 
+h3 {
+    color: #EEEEEE;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    margin-bottom: 0px;
+}
